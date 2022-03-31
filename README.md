@@ -1,4 +1,4 @@
-### Olá, Eu sou Weverton!
+### Hello, I'm Weverton!
 
 * 🇧🇷
 - Learning English 🌎
