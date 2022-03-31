@@ -2,7 +2,7 @@
 
 * 🇧🇷
 - Learning English 🌎
-- Leaning Phyton 🖥️
+- Leaning Phyton, HTML5 and CSS3 🖥️
 - 😄 Pronouns: He/His
 - How to reach me? **[Email](mailto:wevertonsouza1001@hotmail.com)**
 
